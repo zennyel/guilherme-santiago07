@@ -29,10 +29,9 @@
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
  <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
 <h4>
- Reach me! 
-  <p>
-    <b h2 align="center">
+ <p align="center">
+Reach me! 
+<p align="center">
 ● GMAIL: gscog05@gmail.com
-      <b h2 align="center">
-    <p>
+<p align="center">
 ● DISCORD: 𝐒𝐚𝐧𝐭𝐢𝐚𝐠𝐨#8053
