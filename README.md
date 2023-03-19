@@ -29,3 +29,5 @@ Reach me!
 ● GMAIL: gscog05@gmail.com
 <p align="center">
 ● DISCORD: 𝐒𝐚𝐧𝐭𝐢𝐚𝐠𝐨#8053
+<p align="center">
+● REQUEST A MINECRAFT PLUGIN: https://forms.gle/FRzLfEFUnX4nqjQHA
