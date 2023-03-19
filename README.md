@@ -1,6 +1,6 @@
 <h1 align="center">Zennyel developer </h1>
 <div>
-<h2>
+<h3>
 <p align="center">Hello, I'm 17 years old, and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!
 <div>
    </p>
@@ -19,6 +19,6 @@
          
 <div>  
       <p align="center">     
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=dark"/>
-   <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zennyel&layout=compact&theme=dark"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=dark"/>
+   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zennyel&layout=compact&theme=dark"/>
 <div>
