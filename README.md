@@ -1,6 +1,6 @@
-<h1 align="center">SANTIAGO DEVELOPER </h1>
+<h1 align="center">Zennyel DEVELOPER </h1>
 
-<p align="center">Actually im at 17yo, java enthusiast, working on some bukkit minecraft plugin and mobile applications, i've programming since 2019</p>
+<p align="center">Hello, I'm 17 years old, and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!</p>
 <h2>
 <p align="center">
  Technologies 👇
