@@ -10,19 +10,14 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="	https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
    <p align="center">
-<div>
-<a href="https://github.com/zennyel"/>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=zennyell&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=dark"/>
-<div>
-
-<h2>
- <p align="center">
-Reach me! 
-<p align="center">
-● GMAIL: gscog05@gmail.com
-<p align="center">
-● DISCORD: 𝐒𝐚𝐧𝐭𝐢𝐚𝐠𝐨#8053
-<p align="center">
-● REQUEST A MINECRAFT PLUGIN: https://forms.gle/FRzLfEFUnX4nqjQHA
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
