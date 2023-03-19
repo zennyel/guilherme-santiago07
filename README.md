@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="	https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
       <div>
-   <p align="center">
-<picture>
+         
+<div>       
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=dark"/>
-
+   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<div>
