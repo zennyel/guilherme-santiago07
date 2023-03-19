@@ -2,7 +2,7 @@
 
 <p align="center">Hello, I'm 17 years old, and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!</p>
 <h2>
-<p align="left">
+<p align="left-center">
  Technologies that i work, or im learning👇
  <b h3 align="right"> 
 <p align="right">
