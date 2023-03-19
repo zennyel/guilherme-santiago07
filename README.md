@@ -12,10 +12,11 @@
    <p align="center">
 <div>
 <a href="https://github.com/zennyel"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=dark"/>
 <div>
 
-<h4>
+<h2>
  <p align="center">
 Reach me! 
 <p align="center">
