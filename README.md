@@ -4,7 +4,8 @@
 <h2>
 <p align="left">
  Technologies that i work, or im learning👇
- <b h3 align="right"> Storages that i frequently use 👇
+ <b h3 align="right"> 
+  Storages that i frequently use 👇
 <p align="left">
 <img src ="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
