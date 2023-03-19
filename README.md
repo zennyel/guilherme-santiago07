@@ -1,6 +1,8 @@
 <h1 align="center">Zennyel developer </h1>
-
-<p align="center">Hello, I'm 17 years old, and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!</p>
+<div>
+<p align="left">Hello, I'm 17 years old, and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!
+<div>
+   </p>
 <h2>
 <img src ="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
