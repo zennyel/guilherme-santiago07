@@ -15,7 +15,9 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="	https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
- <p align="center">
+   <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=radical"/>
+<div>
 <h4>
  <p align="center">
 Reach me! 
@@ -26,6 +28,4 @@ Reach me!
 <p align="center">
 ● REQUEST A MINECRAFT PLUGIN: https://forms.gle/FRzLfEFUnX4nqjQHA
 <div>
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=radical"/>
-<div>
+
