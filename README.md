@@ -23,8 +23,7 @@
    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zennyel&layout=compact&theme=dark"/>
 <div>
 <div>
-<h6>
-<p align="center">
-Order a plugin!
+<h3>
+<p align="center"> Order a plugin!
 https://forms.gle/ZwGrEHootBkhPsGx5
    <div>
