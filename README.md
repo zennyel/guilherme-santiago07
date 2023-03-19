@@ -1,4 +1,4 @@
-<h1 align="center">Zennyel DEVELOPER </h1>
+<h1 align="center">Zennyel developer </h1>
 
 <p align="center">Hello, I'm 17 years old, and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!</p>
 <h2>
