@@ -16,12 +16,6 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="	https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
  <p align="center">
-<b h3 align="center"> Where did I learn and where am I currently learning 👇
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
- <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
 <h4>
  <p align="center">
 Reach me! 
@@ -32,5 +26,6 @@ Reach me!
 <p align="center">
 ● REQUEST A MINECRAFT PLUGIN: https://forms.gle/FRzLfEFUnX4nqjQHA
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra"/>
+ <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zennyel"/>
 <div>
