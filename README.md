@@ -1,6 +1,7 @@
 <h1 align="center">Zennyel developer </h1>
 <div>
-<p align="left">Hello, I'm 17 years old, and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!
+<h2>
+<p align="center">Hello, I'm 17 years old, and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!
 <div>
    </p>
    
