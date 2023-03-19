@@ -16,7 +16,9 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="	https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white"/>
    <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=radical"/>
+<div>
+<a href="https://github.com/zennyel"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=dark"/>
 <div>
 <h4>
  <p align="center">
@@ -27,5 +29,4 @@ Reach me!
 ● DISCORD: 𝐒𝐚𝐧𝐭𝐢𝐚𝐠𝐨#8053
 <p align="center">
 ● REQUEST A MINECRAFT PLUGIN: https://forms.gle/FRzLfEFUnX4nqjQHA
-<div>
 
