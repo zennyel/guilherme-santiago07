@@ -27,6 +27,5 @@ Reach me!
 ● REQUEST A MINECRAFT PLUGIN: https://forms.gle/FRzLfEFUnX4nqjQHA
 <div>
  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=darkula"/>
-"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zennyel&show_icons=true&theme=radical"/>
 <div>
