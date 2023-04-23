@@ -1,4 +1,4 @@
-<h1 align="center">Zennyel developer </h1>
+<h1 align="center">Zennyel Developer </h1>
 <div>
 <h3>
 <p align="center">Hello, I'm young and I develop plugins for Minecraft and mobile applications. I'm currently working as a freelancer and looking for new horizons!
