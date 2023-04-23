@@ -23,6 +23,3 @@
 <div>
 <div>
 <h8>
-<p align="center"> Order a plugin!
-https://forms.gle/ZwGrEHootBkhPsGx5
-   <div>
