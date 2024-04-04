@@ -18,7 +18,7 @@
 <div>  
       <p align="center">     
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=zerosevenn&theme=vue-dark&hide_border=true"/>
-   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zennyel&layout=compact&theme=dark"/>
+   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerosevenn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 <div>
 <div>
 <h8>
